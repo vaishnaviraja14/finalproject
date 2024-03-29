@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6602835ae375e58b1b662f39"
+  },
+  "name": "Cardiology",
+  "description": "Specializes in heart-related issues",
+  "head": "<Doctor ObjectId>",
+  "staff": [
+    "6602a6395ae71abfd81ec440",
+    "<Nurse ObjectId>"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6602835ae375e58b1b662f3a"
+  },
+  "name": "Orthopedics",
+  "description": "Deals with musculoskeletal issues",
+  "head": "<Doctor ObjectId>",
+  "staff": [
+    "<Nurse ObjectId>",
+    "<Nurse ObjectId>"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6602835ae375e58b1b662f3b"
+  },
+  "name": "Oncology",
+  "description": "Focuses on cancer treatment",
+  "head": "<Doctor ObjectId>",
+  "staff": [
+    "<Nurse ObjectId>",
+    "<Nurse ObjectId>"
+  ]
+}]

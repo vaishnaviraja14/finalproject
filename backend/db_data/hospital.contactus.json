@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "66028350e375e58b1b662f35"
+  },
+  "name": "John Smith",
+  "phone": "1234567890",
+  "email": "john.smith@example.com",
+  "message": "I have a query regarding my recent appointment."
+},
+{
+  "_id": {
+    "$oid": "66028350e375e58b1b662f36"
+  },
+  "name": "Jane Doe",
+  "phone": "9876543210",
+  "email": "jane.doe@example.com",
+  "message": "I would like to schedule an appointment."
+},
+{
+  "_id": {
+    "$oid": "66028350e375e58b1b662f37"
+  },
+  "name": "Michael Johnson",
+  "phone": "5556667777",
+  "email": "michael.johnson@example.com",
+  "message": "I want to inquire about your services."
+},
+{
+  "_id": {
+    "$oid": "6602a18761ea57a5bc617fa9"
+  },
+  "name": "anbu",
+  "phone": {
+    "$numberLong": "6589745896"
+  },
+  "email": "anbu@gmail.com",
+  "message": "vanakkam ",
+  "__v": 0
+}]

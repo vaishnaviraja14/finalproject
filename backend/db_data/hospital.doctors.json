@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6602ab365ae71abfd81ec4fa"
+  },
+  "name": "Dr. John Doe",
+  "doctorId": "1",
+  "email": "john.doe@example.com",
+  "phoneno": "",
+  "password": "$2b$10$LZ9..8CAAnYUSVqhaPGcuOo6EIbRviM9VrYDhk.xWfqXRN/XZ5hq.",
+  "specialization": "Cardiology",
+  "role": "doctor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602aba55ae71abfd81ec522"
+  },
+  "name": "doc1",
+  "doctorId": "2",
+  "email": "doc1@gmail.com",
+  "phoneno": "",
+  "password": "$2b$10$pk2U9.gRO4.SMrRTIRC6g.sk3kPRIBY5jq7SlzVArgVYyV/sk2336",
+  "specialization": "Orthopedics",
+  "role": "doctor",
+  "__v": 0
+}]

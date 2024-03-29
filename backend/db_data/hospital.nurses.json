@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6602aa9e5ae71abfd81ec4f6"
+  },
+  "name": "Emily Johnson",
+  "email": "emily.johnson@example.com",
+  "password": "$2b$10$4oizt0PkM3qghrDfVhmG2OH3gp/HiPnwv5Ly5PyM6lxLHNaj1t5vm",
+  "phoneno": "",
+  "ward": "General",
+  "department": {
+    "$oid": "6602835ae375e58b1b662f39"
+  },
+  "role": "nurse",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602ab845ae71abfd81ec51c"
+  },
+  "name": "nurse1",
+  "email": "nurse1@gmail.com",
+  "password": "$2b$10$hltBoXNHXhNkRxz/qpwO0eZ9Td5fDuTZkLz.0HmnEuj5mvW3HgmcG",
+  "phoneno": "",
+  "ward": "General",
+  "department": {
+    "$oid": "6602835ae375e58b1b662f3a"
+  },
+  "role": "nurse",
+  "__v": 0
+}]

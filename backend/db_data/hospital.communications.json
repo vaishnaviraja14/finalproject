@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66028348e375e58b1b662f31"
+  },
+  "email": "admin@example.com",
+  "message": "Urgent: Meeting rescheduled to tomorrow.",
+  "from": "manager@example.com"
+},
+{
+  "_id": {
+    "$oid": "66028348e375e58b1b662f32"
+  },
+  "email": "hr@example.com",
+  "message": "Please submit your timesheet for this week.",
+  "from": "payroll@example.com"
+},
+{
+  "_id": {
+    "$oid": "66028348e375e58b1b662f33"
+  },
+  "email": "support@example.com",
+  "message": "Thank you for contacting us. Your ticket has been received.",
+  "from": "info@example.com"
+},
+{
+  "_id": {
+    "$oid": "6602a6825ae71abfd81ec448"
+  },
+  "email": "emily.johnson@example.com",
+  "message": "tell sabari that i am busy ",
+  "from": "Dr. John Doe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6602acfe8cf2978dc8fc44b0"
+  },
+  "email": "nurse1@gmail.com",
+  "message": "i am busy at that time ",
+  "from": "doc1",
+  "__v": 0
+}]

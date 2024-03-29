@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "660280ce910d91adab24b262"
+  },
+  "userName": "sabari",
+  "email": "sabari@gmail.com",
+  "password": "$2b$10$1uwnLarjCXoJIRG0C6VHmun4OSAh.dog2tCvOQbMRBR8AaSbHC7GW",
+  "role": "patient",
+  "phoneNumber": "",
+  "dateOfBirth": null,
+  "gender": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "zipCode": ""
+  },
+  "emergencyContact": {
+    "name": "",
+    "relationship": "",
+    "phoneNumber": ""
+  },
+  "medicalHistory": [],
+  "__v": 0
+}]
